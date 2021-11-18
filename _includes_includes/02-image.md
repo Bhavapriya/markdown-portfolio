@@ -1,3 +1,2 @@
-(https://user-images.githubusercontent.com/94157158/142345371-00478daa-f236-45c4-929f-b6bca2275362.png)
-(https://octodex.github.com/images/yaktocat.png)
+![purple bg](https://user-images.githubusercontent.com/94157158/142382628-2551cf98-1aee-46dd-8852-4d075f2daa5a.png)
 
